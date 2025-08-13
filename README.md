@@ -43,7 +43,7 @@ This directory contains a custom Extract–Transform–Load (ETL) Python script 
   },
   "id": "3602184",
   "dateadded": "2025-08-13 18:48:08",
-  "url": "http://125.47.110.244:34066/bin.sh",
+  "url": "MALWARE_LINK",
   "url_status": "online",
   "last_online": "2025-08-13 18:48:08",
   "threat": "malware_download",
